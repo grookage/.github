@@ -28,3 +28,9 @@ The programming languages I often use are,
 
 While all my contributions are marked and managed, a bunch of my other repos also exist at [koushikr](https://github.com/koushikr) and managed there. 
 
+### Other Amazing Frequent Contributors
+
+[Chaitanya Reddy](https://github.com/chaitanyachavali)
+[Abhishek](https://github.com/abhigun)
+[Shubham](https://github.com/subham-soni)
+
