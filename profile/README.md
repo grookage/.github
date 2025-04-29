@@ -13,3 +13,18 @@ The various ideas include (not limited to)
 - A scratchy, experimental relational database written in C++
 
 The list may grow with time, and I'll try to add to the list of offerings. Please fork and submit an MR for any bugs/improvements/feature-additions and so on. Cheers! 
+
+### About me
+
+My name is Koushik. I'm a computer science engineer from Bangalore, India. 
+
+The programming languages I often use are, 
+
+- Java
+- C
+- C++
+- Python
+- Javascript
+
+While all my contributions are marked and managed, a bunch of my other repos also exist at [koushikr](https://github.com/koushikr) and managed there. 
+
