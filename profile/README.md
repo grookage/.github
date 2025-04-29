@@ -30,7 +30,7 @@ While all my contributions are marked and managed, a bunch of my other repos als
 
 ### Other Amazing Frequent Contributors
 
-- [Chaitanya Reddy](https://github.com/chaitanyachavali)
+- [Chaitanya](https://github.com/chaitanyachavali)
 - [Abhishek](https://github.com/abhigun)
 - [Shubham](https://github.com/subham-soni)
 
