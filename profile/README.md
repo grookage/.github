@@ -26,11 +26,5 @@ The programming languages I often use are,
 - Python
 - Javascript
 
-While all my contributions are marked and managed, a bunch of my other repos also exist at [koushikr](https://github.com/koushikr) and managed there. 
-
-### Other Frequent Contributors
-
-- [Abhishek](https://github.com/abhigun)
-- [Shubham](https://github.com/subham-soni)
-- [Chaitanya](https://github.com/chaitanyachavali)
+While some of my projects are managed here, a bunch of my other repos also exist at [koushikr](https://github.com/koushikr) and are managed there. 
 
