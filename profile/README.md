@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Grookage is a collection of software applications predominantly written in Java, useful as building blocks to setup an Internet company. 
+Grookage is a collection of software applications predominantly written in Java and Rust, useful as building blocks to setup an Internet company. 
 
 The various ideas include (not limited to)
 
